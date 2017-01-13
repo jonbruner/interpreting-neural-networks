@@ -6,5 +6,5 @@ Begin with [part 1](http://nbviewer.jupyter.org/github/jonbruner/interpreting-ne
 I recommend viewing these in nbviewer (GitHub doesn't render output scrolling in Jupyter notebooks), but be sure to download the original .ipynb files to run on your own machine.
 
 ## Contents
-1. [Part 1](http://nbviewer.jupyter.org/github/jonbruner/interpreting-neural-networks/blob/master/Fooling%20Neural%20Networks%20part%201.html): introduction and overview
-2. [Part 2](http://nbviewer.jupyter.org/github/jonbruner/interpreting-neural-networks/blob/master/Fooling%20Neural%20Networks%20part%202.html): in-depth code samples
+1. [Introduction and overview](http://nbviewer.jupyter.org/github/jonbruner/interpreting-neural-networks/blob/master/Fooling%20Neural%20Networks%20part%201.html)
+2. [In-depth code samples](http://nbviewer.jupyter.org/github/jonbruner/interpreting-neural-networks/blob/master/Fooling%20Neural%20Networks%20part%202.html)
